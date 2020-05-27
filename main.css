@@ -15,7 +15,7 @@ body{
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	background: url('sitebg.jpg') no-repeat center fixed;
+	background-image: url("sitebg.jpg") no-repeat center fixed;
 	background-size: cover;
 	cursor: pointer;
 }
@@ -673,7 +673,7 @@ li{
 
 @media screen and(max-width: 768px){
 	body{
-	background: url('sitebg2.jpg') no-repeat center fixed;
+	background-image: url("sitebg2.jpg") no-repeat center fixed;
 	background-size: cover;
 	}	
 
